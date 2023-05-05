@@ -1,6 +1,6 @@
 const boxes = document.querySelectorAll('.box')
 
-window.addEventListener('scroll', checkBoxxes)
+window.addEventListener('scroll', checkBoxes)
 
 checkBoxes()
 
